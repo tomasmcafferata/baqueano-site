@@ -122,7 +122,7 @@ header.compacta { border-bottom: 3px double var(--tinta); }
   display: flex; align-items: flex-end; border-bottom: 3px solid var(--ocre);
   background-size: cover; background-position: center 55%;
 }
-.hero .inner { position: relative; z-index: 1; padding: 84px 0 56px; width: 100%; }
+.hero .inner { position: relative; z-index: 1; padding-top: 84px; padding-bottom: 56px; width: 100%; }
 .hero .kick { color: var(--paper); opacity: .9; display: block; margin-bottom: 18px; }
 .hero h1 {
   font-family: var(--display); font-weight: 900;
